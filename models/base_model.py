@@ -2,6 +2,7 @@ import uuid
 from datetime import datetime
 import models
 
+
 class BaseModel:
     """A base model class with unique id and timestamp attributes."""
 
